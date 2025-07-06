@@ -6,6 +6,18 @@
 .env.production
 .env.*.local
 
+.DEPLOYMENT.md
+.GITHUB_SECURITY.md
+.MOBILE_DESKTOP_GUIDE.md
+.Procfile
+.README.md
+.SECURITY_CHECKLIST.md
+.env.example
+.index.html
+.security-config.js
+.vercel.json
+
+
 # Dependencies
 node_modules/
 npm-debug.log*
